@@ -1,0 +1,3 @@
+../Core/Src/CAN_Handler.c:11:6:CAN_ComInit_Std	1
+../Core/Src/CAN_Handler.c:20:6:CAN_FilterInit_SingleFF0	1
+../Core/Src/CAN_Handler.c:36:10:CAN_Transmit	1

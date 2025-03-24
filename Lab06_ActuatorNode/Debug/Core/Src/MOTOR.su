@@ -1,0 +1,4 @@
+../Core/Src/MOTOR.c:4:6:Start_Motor	8	static
+../Core/Src/MOTOR.c:12:6:run	16	static
+../Core/Src/MOTOR.c:24:6:genPwm	40	static
+../Core/Src/MOTOR.c:30:6:stop	8	static
